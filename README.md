@@ -43,7 +43,7 @@ Based on these checks, the password is classified as:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/password-strength-analyzer.git
+git clone https://github.com/Anish9345/password-strength-analyzer.git
 ```
 
 ## 2️⃣ Navigate to the Project Directory
