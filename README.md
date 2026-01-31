@@ -69,13 +69,13 @@ Password Strength: STRONG
 
 ## 🎯 Use Cases
 
- - Learning basic password security concepts
+ - Learning **basic password security concepts**
 
- - Beginner Cyber Security mini-project
+ - Beginner **Cyber Security mini-project**
 
  - College assignments and lab work
 
- - Adding a clean and ethical security project to your GitHub & CV
+ - Adding a clean and ethical security project to your **GitHub & CV**
 
 ---
 
